@@ -1,3 +1,3 @@
 # Table of contents
 
-* [a](README.md)
+* [# Lab 1: C & CGDB](README.md)
