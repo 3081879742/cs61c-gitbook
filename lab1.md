@@ -1,8 +1,8 @@
 # Lab 1: C & CGDB
 
-### Exercise 1: Warm Up <a href="#exercise-1-warm-up" id="exercise-1-warm-up"></a>
+## Exercise 1: Warm Up <a href="#exercise-1-warm-up" id="exercise-1-warm-up"></a>
 
-#### Part 1 <a href="#part-1" id="part-1"></a>
+### Part 1 <a href="#part-1" id="part-1"></a>
 
 返回字母在字符串中出现的次数
 
